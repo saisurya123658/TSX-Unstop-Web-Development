@@ -18,11 +18,9 @@ nav ul {
   display: flex;
   gap: 15px;
 }
-
 nav li {
   display: inline;
 }
-
 nav a {
   color: white;
   text-decoration: none;
